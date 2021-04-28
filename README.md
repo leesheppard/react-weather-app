@@ -2,7 +2,14 @@
 
 An example React app using an open source API. 
 
-## Available Scripts
+## Setup
+
+Clone repo from here:
+
+    $ git@github.com:leesheppard/react-weather-app.git
+    $ cd react-weather-app
+
+## Developer notes
 
 In the project directory, you can run:
 
